@@ -16,7 +16,7 @@ Many of my projects are proprietary or developed for clients, so the repositorie
 https://gardengrownplants.com
 
 <p align="center">
-  <img src="https://gardengrownplants-images.nyc3.digitaloceanspaces.com/preview.webp" width="100%" />
+  <img src="https://gardengrownplants-images.nyc3.digitaloceanspaces.com/preview2.webp" width="100%" />
 </p>
 
 A production-grade eCommerce and content platform developed and maintained for a client specializing in live plants and gardening products. I architected and implemented the platform end-to-end, including frontend development, backend services, infrastructure, payment processing, content management tools, analytics, and deployment automation.
