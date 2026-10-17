@@ -9,6 +9,7 @@ Many of my projects are proprietary or developed for clients, so their source co
 
 ## **Portfolio:**
 Explore my projects, technical experience, and development work.
+
 [jdukes.dev](https://jdukes.dev) 
 
 ---
