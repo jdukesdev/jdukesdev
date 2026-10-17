@@ -7,8 +7,8 @@ My experience spans full-stack development, eCommerce, marketplace platforms, en
 
 Many of my projects are proprietary or developed for clients, so their source code is not publicly available.
 
-## Explore my projects, technical experience, and development work.
-### **Portfolio:** 
+## **Portfolio:**
+Explore my projects, technical experience, and development work.
 [jdukes.dev](https://jdukes.dev) 
 
 ---
